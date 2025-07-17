@@ -31,6 +31,6 @@
 
 ### 📫 Let's Connect:
 <p align="left">
-  <a href="https://www.linkedin.com/in/shiyam-sundar-g/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiyam sundar g's linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shiyam-p/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiyam sundar g's linkedin" height="30" width="40" /></a>
   <a href="mailto:shiyam1705@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email shiyam" height="30" width="30" /></a>
 </p>
