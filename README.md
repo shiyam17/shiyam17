@@ -1,43 +1,32 @@
-<h1 align="center">Hi 👋, I'm Shiyam P</h1>
-<h3 align="center">A passionate Developer from India</h3>
-
+<h1 align="center">Hey there 👋, I'm Shiyam P 🚀</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiyam123&label=Profile%20views&color=0e75b6&style=flat" alt="shiyam123" />
+  <b>Full Stack Engineer • SIH'24 Grand Winner 🏆 • Builder of Real-World Tech</b>  
+  <br />
+  <i>“Think doubt and fail. Think victory and succeed. 🔥”</i>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧠 About Me
 
-- 🔭 I'm currently building and enhancing **Hackathon Projects and AI Tools**.
-- 🌱 Actively expanding my skills in **Flutter, Machine Learning, and Firebase**.
-- 💬 Feel free to ask me about **App Development, AI/ML, and GitHub workflows**.
-- 📫 You can reach me at **shiyam1705@gmail.com**.
+I'm a builder-first developer passionate about creating scalable systems with purpose.  
+From deploying an AI career toolkit used by 1000+ job seekers to architecting microservices for logistics and IoT-powered decentralized voting systems — I solve real-world problems using software, hardware, and creativity😉.
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-</p>
+- 🏆 **Smart India Hackathon 2024 Grand Winner**
+- 🥇 **7x Hackathon Champion** – WittyHacks, Techacks, Peerlist AI, JugaadHacks & more
+- 💼 **Former SWE @ Hotwax Commerce (US)** – Led migrations from legacy systems & optimized REST infra
+- 🧠 Founder of [Yuvaantar](https://yuvaantar.in) – Mentored 150+ students
+- 🌱 Self-taught coder who started from a 256MB Linux PC in 2019
+- 💬 Ask me about Computers,IOT,Linux,Cloud,WebDev,Microcontrollers,Networking&Sarcasm.
 
 ---
 
-### 📊 GitHub Stats
+## 💻 Tech & 🛠️ Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiyam123&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="shiyam123's Top Languages" />
-</p>
-
----
-
-### 👋 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shiyam-p/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shiyam P's LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:shiyam1705@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email Shiyam" height="30" width="30" /></a>
-</p>
+```ts
+Languages       → JavaScript · TypeScript · C++ · Go · Python · PHP · SQL
+Frontend        → Next.js · React.js · Vue.js · Flutter · Nuxt.js · Shadcn UI · Chakra UI
+Backend         → Node.js · Express.js · Fastify · FastAPI
+Databases       → PostgreSQL · MySQL · MongoDB · Redis
+Infra & DevOps  → Docker · GitHub Actions · Kafka · NGINX · Azure · GCP · AWS
+IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
