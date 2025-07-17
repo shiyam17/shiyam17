@@ -24,7 +24,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiyam123&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="shiyam123's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiyam123&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="shiyam123's Top Languages" />
 </p>
 
