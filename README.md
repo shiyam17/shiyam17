@@ -12,8 +12,8 @@ I'm a builder-first developer passionate about creating scalable systems with pu
 From deploying an AI career toolkit used by 1000+ job seekers to architecting microservices for logistics and IoT-powered decentralized voting systems — I solve real-world problems using software, hardware, and creativity😉.
 
 -  **K! Hacks 2025 Grand Winner**
--  **Smart India Hackathon 2024 Finalist
--  **Former SWE Intern @ Approtors – AI Startup
+-  **Smart India Hackathon 2024 Finalist**
+-  **Former SWE Intern @ Approtors – AI Startup**
 
 ---
 
